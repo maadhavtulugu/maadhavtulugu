@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @maadhavtulugu, Working professional
+- 👋 Hi, I’m @maadhavtulugu, A working professional
 - 👀 I’m interested in backend development with Java and frontend development 
 - 🌱 I’m currently learning spring boot and react
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me : madhavtulugu.12@gmail.com
-- 
+  
 
 <!---
 maadhavtulugu/maadhavtulugu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
